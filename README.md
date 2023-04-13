@@ -1,0 +1,2 @@
+# SymbolicatorTool
+常用SymbolicatorTool,mac_dump_sample,DSYMTools,MacSymbolicator,SymbolicatorX工具
